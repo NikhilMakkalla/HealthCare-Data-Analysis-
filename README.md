@@ -148,34 +148,11 @@ SELECT
     (SELECT COUNT(*) FROM doctor) AS total_doctors,
     (SELECT COUNT(*) FROM visit) AS total_visits;
 
+---
 
 ## 📂 Project Structure
 
-End-to-end Healthcare Data Analytics/
-│
-├── Data/
-│   └── Health Care Analytics Project Excel.xlsx
-│
-├── SQL/
-│   └── Health_care Project queries.sql
-│
-├── PowerBI/
-│   └── Health Care Analytics.pbix
-│
-├── Tableau/
-│   └── Health Care Analytics.twbx
-│
-├── Images/
-│   ├── ExcelDashboard.jpg
-│   ├── PowerBIDashboard.jpg
-│   ├── TableauDashboard.jpg
-│   ├── SQL Image.jpg
-│   └── Relationship.jpg
-│
-├── Documentation/
-│   └── Health Analytics.pptx
-│
-└── README.md
+End-to-end Healthcare Data Analytics/ | ├── Data/ | │ └── Health Care Analytics Project Excel.xlsx | ├── SQL/ | │ └── Health_care Project queries.sql | ├── PowerBI/ | │ └── Health Care Analytics.pbix | ├── Tableau/ | │ └── Health Care Analytics.twbx | ├── Images/ | │ ├── ExcelDashboard.jpg | │ ├── PowerBIDashboard.jpg | │ ├── TableauDashboard.jpg | │ ├── SQL Image.jpg | └── Relationship.jpg | ├── Documentation/ | │ └── Health Analytics.pptx | └── README.md
 
 ---
 
