@@ -154,48 +154,37 @@ SELECT
 
 End-to-end Healthcare Data Analytics/ | ├── Data/ | │ └── Health Care Analytics Project Excel.xlsx | ├── SQL/ | │ └── Health_care Project queries.sql | ├── PowerBI/ | │ └── Health Care Analytics.pbix | ├── Tableau/ | │ └── Health Care Analytics.twbx | ├── Images/ | │ ├── ExcelDashboard.jpg | │ ├── PowerBIDashboard.jpg | │ ├── TableauDashboard.jpg | │ ├── SQL Image.jpg | └── Relationship.jpg | ├── Documentation/ | │ └── Health Analytics.pptx | └── README.md
 
----
-
 ## 📊 Project Workflow
 
-### 1️⃣ Data Collection & Preparation
+1️⃣ Data Collection & Cleaning  
+Imported and prepared healthcare data using Excel and SQL.
 
-- Organized healthcare data across multiple entities including patients, doctors, departments, visits, laboratory tests, treatments, billing, insurance claims, and insurance providers.
-- Prepared the datasets for analysis using Excel and SQL.
-- Performed data preparation and structured the data for analytical reporting.
+2️⃣ SQL Analysis  
+Analyzed patient demographics, diagnoses, visits, laboratory tests, and healthcare operations.
 
-### 2️⃣ SQL Analysis
+3️⃣ Excel & Power BI Dashboards  
+Generated summary reports, KPI cards, charts, and interactive dashboards.
 
-- Calculated key healthcare KPIs including total patients, doctors, and visits.
-- Analyzed the most frequently diagnosed conditions.
-- Evaluated patient distribution across age groups, gender, and states.
-- Analyzed monthly patient registration and patient volume trends.
-- Calculated the percentage of abnormal laboratory test results.
-- Identified departments with the highest number of completed visits.
-- Analyzed cancelled and missed visit percentages.
-- Identified doctors with the highest number of laboratory tests performed.
+4️⃣ Tableau Visualizations  
+Created interactive visualizations to analyze healthcare trends and performance.
 
-### 3️⃣ Excel & Power BI Dashboards
+## 📷 Dashboards & Visualizations
 
-- Performed healthcare data analysis using Excel.
-- Created Pivot Table-based summaries and analytical reports.
-- Developed KPI visualizations and healthcare dashboards.
-- Built interactive Power BI dashboards to communicate patient, clinical, laboratory, treatment, billing, and insurance-related insights.
+### Power BI Dashboard
 
-### 4️⃣ Tableau Visualizations
+<img width="1350" height="742" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/deaf05fc-6a0e-476a-ba45-2e5b3011a8ff" />
 
-- Developed interactive Tableau visualizations for healthcare data analysis.
-- Created visual analysis of patient and healthcare operational data.
-- Used charts and dashboards to communicate trends and business insights.
-📷 Dashboards & Visualizations
-Power BI Dashboard
-<img width="1350" height="742" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/8b5efb11-4fb8-4d42-a3da-53ad13512877" />
 
-Tableau Dashboard
-<img width="1910" height="968" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/630324bc-bff5-4295-93dc-9931a1aeec43" />
+### Excel Dashboard
+<img width="886" height="765" alt="Excel-Dashboard" src="https://github.com/user-attachments/assets/f95907e9-51e3-46a7-b03a-aca450b7ea77" />
 
-Excel Dashboard
-<img width="886" height="765" alt="Excel-Dashboard" src="https://github.com/user-attachments/assets/63bada7b-8091-468c-8fd4-3c290fe6cbef" />
+
+### Tableau Dashboard
+
+<img width="1910" height="968" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/97483411-e9ad-499f-b9f4-a3f7ed3ff4e5" />
+
+---
+
 
 📈 Key Insights
 - Analyzed patient demographics and registration trends.
