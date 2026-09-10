@@ -147,6 +147,7 @@ SELECT
     (SELECT COUNT(*) FROM patient) AS total_patients,
     (SELECT COUNT(*) FROM doctor) AS total_doctors,
     (SELECT COUNT(*) FROM visit) AS total_visits;
+```
 
 ---
 
@@ -154,19 +155,23 @@ SELECT
 
 End-to-end Healthcare Data Analytics/ | ├── Data/ | │ └── Health Care Analytics Project Excel.xlsx | ├── SQL/ | │ └── Health_care Project queries.sql | ├── PowerBI/ | │ └── Health Care Analytics.pbix | ├── Tableau/ | │ └── Health Care Analytics.twbx | ├── Images/ | │ ├── ExcelDashboard.jpg | │ ├── PowerBIDashboard.jpg | │ ├── TableauDashboard.jpg | │ ├── SQL Image.jpg | └── Relationship.jpg | ├── Documentation/ | │ └── Health Analytics.pptx | └── README.md
 
+---
+
 ## 📊 Project Workflow
 
-1️⃣ Data Collection & Cleaning  
+1️⃣ **Data Collection & Cleaning**  
 Imported and prepared healthcare data using Excel and SQL.
 
-2️⃣ SQL Analysis  
+2️⃣ **SQL Analysis**  
 Analyzed patient demographics, diagnoses, visits, laboratory tests, and healthcare operations.
 
-3️⃣ Excel & Power BI Dashboards  
+3️⃣ **Excel & Power BI Dashboards**  
 Generated summary reports, KPI cards, charts, and interactive dashboards.
 
-4️⃣ Tableau Visualizations  
+4️⃣ **Tableau Visualizations**  
 Created interactive visualizations to analyze healthcare trends and performance.
+
+---
 
 ## 📷 Dashboards & Visualizations
 
@@ -174,19 +179,18 @@ Created interactive visualizations to analyze healthcare trends and performance.
 
 <img width="1350" height="742" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/deaf05fc-6a0e-476a-ba45-2e5b3011a8ff" />
 
-
 ### Excel Dashboard
-<img width="886" height="765" alt="Excel-Dashboard" src="https://github.com/user-attachments/assets/f95907e9-51e3-46a7-b03a-aca450b7ea77" />
 
+<img width="886" height="765" alt="Excel-Dashboard" src="https://github.com/user-attachments/assets/f95907e9-51e3-46a7-b03a-aca450b7ea77" />
 
 ### Tableau Dashboard
 
-<img width="1910" height="968" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/97483411-e9ad-499f-b9f4-a3f7ed3ff4e5" />
+<img width="1910" height="968" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/97483411-e9ad-499b-b9f4-a3f7ed3ff4e5" />
 
 ---
 
+## 📈 Key Insights
 
-📈 Key Insights
 - Analyzed patient demographics and registration trends.
 - Identified common diagnoses and high-performing departments.
 - Evaluated laboratory test results and abnormal test rates.
